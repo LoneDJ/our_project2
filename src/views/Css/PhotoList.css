@@ -1,0 +1,10 @@
+.photo_cont {
+    height: 300px;
+    display: block;
+    overflow: hidden;
+}
+.photo_cont img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+}
